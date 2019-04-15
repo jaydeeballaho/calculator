@@ -22,7 +22,8 @@
             android:text="X"/>
         <Button
             style="@style/calc_action_button"
-            android:text="<<"/>
+            android:paddingLeft="30dp"
+            android:text="E"/>
 
     </LinearLayout>
 
